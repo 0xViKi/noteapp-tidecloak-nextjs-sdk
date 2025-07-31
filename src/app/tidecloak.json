@@ -1,0 +1,11 @@
+{
+  "realm": "myrealm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "noteapp",
+  "public-client": true,
+  "confidential-port": 0,
+  "vendorId": "2136383525258750455556446722607316584536524296919471047208596047088028323109",
+  "homeOrkUrl": "https://ork1.tideprotocol.com",
+  "client-origin-auth-http://localhost:3000": "WRI6ivKdtNIdQ6oBjuIhnzauanMtO6bcJr3orWIi0oU4HG9rh/lNerfziUGpJUS/MDlpbCclxeDrJkaTH3d2BA=="
+}
